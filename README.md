@@ -20,7 +20,7 @@ A web application that helps uncover real IP addresses behind Cloudflare's prote
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cloudflare-scanner.git
+git clone https://github.com/Gyde04/cloudflare-scanner.git
 cd cloudflare-scanner
 ```
 
